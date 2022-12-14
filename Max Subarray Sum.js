@@ -3,7 +3,7 @@
 
 function maxSubarraySum(arr, n) {
     /* If the array is empty, return null. */
-    if(arr.length == 0) return null;
+    if(arr.length < n) return null;
 
     let maxSum = 0;
     let tempSum = 0;
