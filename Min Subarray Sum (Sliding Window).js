@@ -14,7 +14,6 @@ function minSubArrayLen(arr, n) {
     /* This is checking to see if the value of n is greater than the sum of the array. If it is, then
     it will return 0. */
     if(n > sum) return 0;
-
     
     /* This is a while loop that is checking to see if the value of minSubArrayLen is greater than 0.
     If it is, then it will check to see if the value of arr[left] is less than or equal to the value
