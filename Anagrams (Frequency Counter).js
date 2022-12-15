@@ -16,6 +16,7 @@ function validAnagram(str1, str2) {
     return true;
 }
 
+console.log(performance.now())
 console.log(validAnagram("", ""));
 console.log(validAnagram("aaz", "zza"));
 console.log(validAnagram("anagram", "nagaram"));
