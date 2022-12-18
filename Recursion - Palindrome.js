@@ -1,5 +1,5 @@
 // Time Complexity: O(log n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If the first and last characters of the string are the same, then we check if the rest of the string

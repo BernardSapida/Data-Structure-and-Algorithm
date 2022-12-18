@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(N)
+// Space Complexity: O(N)
 
 /**
  * It recursively calls itself on the first element of the array until it finds a non-array element,

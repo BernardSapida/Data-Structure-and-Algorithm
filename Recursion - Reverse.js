@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If the position is 0, return the character at that position, otherwise return the character at that

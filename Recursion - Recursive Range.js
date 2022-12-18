@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If n is 0, return 0, otherwise return n + the result of calling recursiveRange with n-1.

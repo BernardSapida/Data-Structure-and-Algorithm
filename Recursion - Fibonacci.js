@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 /**
  * If the value of the nth term is already in the cache, return it, otherwise, add the sum of the

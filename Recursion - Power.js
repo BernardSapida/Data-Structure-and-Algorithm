@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If the exponent is 0, return 1; otherwise, return the base times the power of the base to the

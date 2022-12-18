@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If the remainder of val divided by 2 is not equal to 0, return true, otherwise return false.

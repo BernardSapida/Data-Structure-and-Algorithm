@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 /**
  * If the array is empty, return 1. Otherwise, return the first element of the array multiplied by the
