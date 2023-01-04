@@ -20,7 +20,7 @@ function pivot(arr, start = 0, end = arr.length-1) {
 
 function quickSort(arr, start = 0, end = arr.length) {
     if(start < end) {
-        let pivotIndex = pivot(arr, start, end = end);
+        let pivotIndex = pivot(arr, start, end);
         quickSort(arr, start, pivotIndex-1);
         quickSort(arr, pivotIndex+1, end);
     }
